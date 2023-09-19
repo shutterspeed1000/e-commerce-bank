@@ -1,2 +1,1 @@
-# e-commerce-bank
-E-commerce application with SQL backend
+# E-commerce Back End Starter Code
