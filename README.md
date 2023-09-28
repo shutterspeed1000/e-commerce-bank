@@ -40,6 +40,7 @@ Technology used in this project:
 - Express.JS
 - APIs
 - Insommnia (used in testing)
+- DotENV
 
 
 
