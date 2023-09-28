@@ -39,7 +39,7 @@ Technology used in this project:
 - MySql
 - Express.JS
 - APIs
-- Incommnia (used in testing)
+- Insommnia (used in testing)
 
 
 
