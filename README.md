@@ -35,11 +35,11 @@ THEN I am able to successfully create, update, and delete data in my database
 This application features the DB and API requirements listed in the project.  It also includes the seed information needed for adding sample data to the system.
 
 Technology used in this project:
-Sequlize
-MySql
-Express.JS
-APIs
-Incommnia (used in testing)
+- Sequlize
+- MySql
+- Express.JS
+- APIs
+- Incommnia (used in testing)
 
 
 
